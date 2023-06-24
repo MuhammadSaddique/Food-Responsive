@@ -99,7 +99,7 @@ header.active .navbar a {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    background: url(Background\ –\ 1@2x.png);
+    background: url(./images/Background\ –\ 1@2x.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -148,7 +148,7 @@ header.active .navbar a {
     display: flex;
     align-items: center;
     flex-direction: column;
-    background: url(about-bg.jpg);
+    background: url(./images/about-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
